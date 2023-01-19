@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-mir=^srmzmz6p2+#s1y8&17uxd-&&e(jwolsm0*t@$-kw#*#fc'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['unilink.azurewebsites.net', '127.0.0.1']
 
